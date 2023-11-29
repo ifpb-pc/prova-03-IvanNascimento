@@ -1,5 +1,3 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/eGmZTE9D)
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-718a45dd9cf7e7f842a935f5ebbe5719a5e09af4491e668f4dbf3b35d5cca122.svg)](https://classroom.github.com/online_ide?assignment_repo_id=13084050&assignment_repo_type=AssignmentRepo)
 # Programação Estruturada: Prova 03
 
 ## Instruções
@@ -47,14 +45,13 @@ Saída:
 
 resultado_esperado = ['João Pessoa', 'Campina Grande', 'Patos', 'Sousa', 'Cajazeiras', 'Guarabira', 'Areia']
 
-
 ## Questão 02
 
-Crie um programa que leia duas listas (lista1 e lista2), retorne uma tupla contendo: 
+Crie um programa que leia duas listas (lista1 e lista2), retorne uma tupla contendo:
 
 - A soma de todos os números das duas listas maiores que 0,
 
-- Uma lista  em ordem crescente dos elementos da lista1 e lista2 maiores que 0.
+- Uma lista em ordem crescente dos elementos da lista1 e lista2 maiores que 0.
 
 ### Exemplos
 
@@ -87,19 +84,19 @@ Você deverá ler valores numéricos até o usuário digitar 0. Crie uma funçã
 
 - Saída Esperada:
 
-  - Lista de Pares: [12, 14, 6, 8, 10]
+  - Lista de Pares: [2, 4, 6, 8, 10, 12, 14]
   - Lista de Ímpares: []
 
 - Entrada: [1, 3, 5, 7, 9, 11, 0]
 - Saída Esperada:
 
   - Lista de Pares: []
-  - Lista de Ímpares: [11, 9, 7, 5, 3]
+  - Lista de Ímpares: [1, 3, 5, 7, 9, 11]
 
 - Entrada: [2, 4, 6, 8, 10, 12, 1, 3, 5, 7, 9, 11, 0]
 - Saída Esperada:
-  - Lista de Pares: [12, 4, 6, 8, 10]
-  - Lista de Ímpares: [11, 3, 5, 7, 9]
+  - Lista de Pares: [2, 4, 6, 8, 10, 12]
+  - Lista de Ímpares: [1, 3, 5, 7, 9, 11]
 
 ## Questão 04
 
@@ -118,4 +115,4 @@ Você deverá ler valores numéricos referente à altura em uma função ler_03_
 
   Consiste de 03 números reais, separados por um final de linha. Os números devem ser formatados com 02 casas decimais.
 
-  [20.00, 30.00, 10.00]
+  ["20.00", "30.00", "10.00"]
